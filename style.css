@@ -1,0 +1,50 @@
+.main{
+    text-align: center;
+    background-color: antiquewhite;
+    text-transform: capitalize;
+    height: 1000px;
+}   
+.roundedcircle{
+    border-radius: 100px;
+    margin-top: 200px;
+}
+.flex{
+    display: inline-block;
+    align-items: center;
+    margin: 20px;
+    background-color: rgb(143, 205, 235);
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+}
+.intro{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: larger;
+}
+.head{
+    margin-top: 65px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+}
+.flex:hover{
+    border-width: 10px;
+}
+#proj{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+#fbc{
+    margin-top: 20px;
+    margin-left: 700px;
+}
+#per{
+    margin-top: 20px;
+    margin-left: 30px;
+}
